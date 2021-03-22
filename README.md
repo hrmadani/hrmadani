@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hrmadani an experienced web developer.
-- 👀 I’m interested in face with new challenges and develop optimal solustions.
+- 👀 I’m interested in face with new challenges and develop optimal solutions.
 - 🌱 I’m currently learning GoLang as a new programming language to prepare myself for new world...
 - 💞️ I’m looking to collaborate on web applications
 - 📫 It's my Email : HRMadani2@gmail.com
